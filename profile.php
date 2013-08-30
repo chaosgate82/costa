@@ -26,8 +26,8 @@ In 2011 Dario was 26th FAI World Aerobatic Championships' Contest Director and i
     </div></a>
   <a href="profile.php"> <div class="item_menu underlineRed"> <span class="red">p</span>rofile</div></a><a href="news.php"><div class="item_menu"><span class="red">n</span>ews & <span class="red">m</span>edia</div></a><a href="publications.php"><div class="item_menu"><span class="red">p</span>ublications</div></a>
   <a href="contatti.php"> <div class="item_menu spacer "><span class="red">c</span>ontact</div></a></span><span class="red spacer">}</span></div>
-    <img class="img_contatti" style="margin:30px 0 0 0" src="profile.jpg" alt="Dario Costa"/>
-    <div class="text_contatti" style="height:373px;">
+   
+    <div class="text_contatti" style="height:373px; width:auto;">
  <span class="red">Name:</span> Dario Costa<br />
 <span class="red">Born:</span> Manchester, UK<br />
 <span class="red">D.O.B:</span> May 9th, 1980<br />
@@ -35,12 +35,13 @@ In 2011 Dario was 26th FAI World Aerobatic Championships' Contest Director and i
 <span class="red">Airport:</span> Milan Bresso, Italy (LIMB)<br />
 <span class="red">Job:</span> Aerobatic Instructor Pilot and Examiner<br />
 <span class="red">Flight time:</span> Over 4000 hours, half of those in aerobatic airplanes.<br /><br />
-
+Born in the UK to an Italian father and a Persian mother and brought up in Africa.
 Flying as a pilot since 1997 with over 5 years of all-attitude/all-envelope
 instructional experience in aerobatics and upset recovery training.<br />
 Conducting since 2007 studies of decision making during stall and spin
 recovery with development of stall/spin awareness and prevention advanced
 training.<br /> From 2010 is an active aerobatic competition pilot.<br />
+Dario's passion for sports was born way before he began aerobatics - other than being a fervent snowboarder and surfer, ha had an important role in the Italian national baseball team.<br />
 In 2011 Dario was 26th FAI World Aerobatic Championships' Contest
 Director and in 2012 he made history by becoming the first Italian
 MCFI-Aerobatics. Today Dario is the Deputy Head of Training and Chief Flying Instructor at Aero Club Milano JAA Flying Training Organisation.
